@@ -42,7 +42,7 @@ Este repositório contém os relatórios e evidências dos experimentos desenvol
 ## Estrutura do Repositório
 
 * Relatorio_10_Experimentos.pdf
-* Pasta Evidencias com imagens dos experimentos
+* Print dos resultados
 * README.md
 
 ## Autora
